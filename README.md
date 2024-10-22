@@ -44,7 +44,11 @@ Install the required packages:
 `streamlit run app.py` :This is the command you'd run in the terminal to launch the Streamlit application.
 
 # Demo
-![](file:///C:/Users/kemal/Desktop/k%C4%B1r%C4%B1k_tespiti/proje_demo.mp4)
+
+
+
+https://github.com/user-attachments/assets/05091ef5-aca1-472a-8d44-cb11ba9e96cb
+
 
 
 
