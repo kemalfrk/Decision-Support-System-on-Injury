@@ -10,6 +10,11 @@ The AI-based decision support system aims to help doctors quickly detect fractur
 - **Streamlit Interface**: A user-friendly web application allowing users to upload X-ray images and view results instantly.
 - **Decision Support Mechanism**: Based on detected fractures, the system provides suggestions to doctors for speeding up the recovery process.
 
+## Validation Score
+
+![val_result](https://github.com/user-attachments/assets/3aec4cf4-75a7-4fe7-93b6-e425289e1d1c)
+
+
 ## Technologies Used
 
 - **Python**: For model training and application development.
@@ -24,7 +29,7 @@ Clone the project repository to get started:
 
 
 
-  `  git clone https://github.com/kemalfrk/Decision-Support-System-on-Injury.git`
+  ` git clone https://github.com/kemalfrk/Decision-Support-System-on-Injury.git`
 
 `cd Decision-Support-System-on-Injury` : Go to the directory where the project is located
 
@@ -39,18 +44,7 @@ Install the required packages:
 `streamlit run app.py` :This is the command you'd run in the terminal to launch the Streamlit application.
 
 # Demo
-
-
-https://github.com/user-attachments/assets/66341314-820b-478a-b465-5cbb78a29efa
-
-
-
-
-
-
-
-
-
+![](file:///C:/Users/kemal/Desktop/k%C4%B1r%C4%B1k_tespiti/proje_demo.mp4)
 
 
 
