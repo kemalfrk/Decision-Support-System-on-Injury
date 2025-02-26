@@ -36,8 +36,6 @@ Clone the project repository to get started:
 
 Install the required packages:
 
-`pip install -r requirements.txt`
-
 `pip install ultralytics`
 
 
